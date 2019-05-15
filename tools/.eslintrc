@@ -1,12 +1,4 @@
-{
-  "rules": {
-    "import/no-extraneous-dependencies": [
-      "error",
-      {
-        "optionalDependencies": false,
-        "peerDependencies": false
-      }
-    ],
-    "strict": "off"
-  }
-}
+casiel@gmail.com
+casielzoecodera@yahoo.com
+casielzoe121010@yahoo.com
+babs@gmail.com
